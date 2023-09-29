@@ -29,7 +29,7 @@
     "network-address": "^1.1.2",
     "prettier-bytes": "^1.0.4",
     "readable-stream-clone": "https://github.com/mitra42/readable-stream-clone.git",
-    "sharp": "^0.31.2"
+    "sharp": "^0.32.6"
   },
   "description": "Javascript library for Internet Archive Decentralized Web project: Transport",
   "devDependencies": {
