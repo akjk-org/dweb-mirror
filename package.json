@@ -29,17 +29,17 @@
     "network-address": "^1.1.2",
     "prettier-bytes": "^1.0.4",
     "readable-stream-clone": "https://github.com/mitra42/readable-stream-clone.git",
-    "sharp": "^0.31.2"
+    "sharp": "^0.33.0"
   },
   "description": "Javascript library for Internet Archive Decentralized Web project: Transport",
   "devDependencies": {
-    "eslint": "^8.32.0",
+    "eslint": "^8.44.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-babel": "^5.3.1",
-    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-import": "^2.28.0",
     "eslint-plugin-jest": "^27.2.1",
-    "eslint-plugin-jsx-a11y": "^6.7.1",
-    "eslint-plugin-react": "^7.32.1"
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.33.0"
   },
   "homepage": "https://github.com/internetarchive/dweb-mirror#readme",
   "keywords": [],
