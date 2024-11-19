@@ -33,7 +33,7 @@
   },
   "description": "Javascript library for Internet Archive Decentralized Web project: Transport",
   "devDependencies": {
-    "eslint": "^8.32.0",
+    "eslint": "^9.15.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-babel": "^5.3.1",
     "eslint-plugin-import": "^2.27.5",
