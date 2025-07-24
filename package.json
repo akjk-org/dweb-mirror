@@ -23,7 +23,7 @@
     "glob": "^8.1.0",
     "js-yaml": "^4.1.0",
     "level": "^5.0.1",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "multicast-dns": "^7.2.5",
     "multihashes": "^4.0.3",
     "network-address": "^1.1.2",
